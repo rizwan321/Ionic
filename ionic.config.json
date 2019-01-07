@@ -1,0 +1,7 @@
+{
+  "name": "map_polyline",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
